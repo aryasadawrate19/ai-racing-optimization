@@ -266,6 +266,7 @@ Feel free to contribute by:
 ## 📄 License
 
 This project is for educational and research purposes.
+Check [LICENSE.md](LICENSE.md) for more info
 
 ## 🏆 Acknowledgments
 
